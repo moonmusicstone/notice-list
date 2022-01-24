@@ -1,5 +1,5 @@
 # notice-list
-学工网通知爬取
+川农学工网通知爬取
 写这个项目的原因是因为川农的学工网通知不能搜素，令人吐槽的是与之相对的教务处和学院的通知都可以搜索。<(＿　＿)>
 
 正好在练习python的爬虫，就写了个小东西，那一堆混乱的文件可以不用看了，初次操作不太熟练，可以直接下载编译好的版本。https://github.com/moonmusicstone/notice-list/releases/tag/python
