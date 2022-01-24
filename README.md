@@ -6,4 +6,5 @@
 
 因为学工网通知用了JS跳转下一页，不同页面的url是相同的，所以使用 WebDriver 自动Microsoft Edge进行跳转，所以请确保下载压缩包解压后 msedgedriver.exe 和 通知爬取.exe 在同一路径下，不然会报错。
 
-如果想要看源码的话 final.py 是最终的版本，其他的请忽略。(●'◡'●)
+如果想要看源码的话 final.py 是最终的版本，其他的请忽略。(●'◡'●)链接放到下面了：
+https://github.com/moonmusicstone/notice-list/blob/master/PythonApplication3/final.py
